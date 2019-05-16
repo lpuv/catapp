@@ -1,5 +1,5 @@
 {
-  "name": "cat-utils",
+  "name": "catutils",
   "version": "1.0.0",
   "description": "A simple utils module",
   "main": "index.js",
