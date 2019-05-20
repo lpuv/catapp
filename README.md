@@ -1,2 +1,2 @@
-# utils
-A simple utils node module
+# catapp
+A simple nodejs app
